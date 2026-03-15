@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK_Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "AFKBOT228",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "PlaySurgut.aternos.me",
+    "port": 38262,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "FDAFGSG"
     },
     "anti-afk": {
       "enabled": true,
@@ -74,8 +74,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
